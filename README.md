@@ -7,4 +7,4 @@ I am Au Cheen Kuan, learning coding and development
 
 ### Even smaller headline
 
-![]{Sentosa.jpg}
+![] {Sentosa.jpg}
